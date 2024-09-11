@@ -1,0 +1,14 @@
+{
+  "name": "jit-image-resizer",
+  "version": "1.0.0",
+  "author": "Markus Gray<markusgray@syncwaretech.com>",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1691.0",
+    "hono": "^4.6.1",
+    "redis": "^4.7.0",
+    "sharp": "^0.33.5"
+  }
+}

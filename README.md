@@ -1,0 +1,1 @@
+# JIT Image Resizer Service
